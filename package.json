@@ -1,0 +1,33 @@
+{
+  "name": "chainus",
+  "version": "0.0.1",
+  "description": "A simple yet powerful framework that is lightweight, reactive, fast and user-friendly.Currently beta",
+  "main": "./src/chainus.min.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanHuseyinDemir/Chainus.git"
+  },
+  "keywords": [
+    "reactive",
+    "framework",
+    "frontend",
+    "components",
+    "states",
+    "state-management",
+    "props",
+    "prop-drilling",
+    "data-management",
+    "web-development",
+    "vanilla-friendly",
+    "dom"
+  ],
+  "author": "Hasan Hüseyin Demir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HasanHuseyinDemir/Chainus/issues"
+  },
+  "homepage": "https://github.com/HasanHuseyinDemir/Chainus#readme"
+}
