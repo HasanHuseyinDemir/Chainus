@@ -1,4 +1,4 @@
-<div style="display:flex;justify-content:center;align-items:center">
+<div style="display:flex;justify-content:center;align-items:center;width:100%;">
 <img style="border-radius:7px" width="200px" height="200px" src="./Logo.png">
 </div>
 <br>
