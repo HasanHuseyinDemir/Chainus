@@ -1,10 +1,8 @@
-<div style="display:flex;justify-content:center;align-items:center;width:100%;">
-<img style="border-radius:7px" width="200px" height="200px" src="./Logo.png">
+<div align="center">
+<img width="600px" src="Logo.png">
+<h1 align="center">Chainus </h1>
 </div>
 <br>
-
-# Chainus [Beta]
-
 Chainus is an easy-to-use, vanilla JavaScript-friendly, reactive, lightweight, and functional SPA (Single Page Application) framework.
 
 ## Features
