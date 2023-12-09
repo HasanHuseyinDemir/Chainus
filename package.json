@@ -1,7 +1,7 @@
 {
   "name": "chainus",
-  "version": "0.0.4",
-  "description": "A simple yet powerful framework that is lightweight, reactive, fast and user-friendly.Currently beta",
+  "version": "0.1.0",
+  "description": "A simple yet powerful framework that is lightweight, reactive, fast and user-friendly.",
   "main": "./src/chainus.min.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

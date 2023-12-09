@@ -5,6 +5,8 @@
 <br>
 Chainus is an easy-to-use, vanilla JavaScript-friendly, reactive, lightweight, and functional SPA (Single Page Application) framework.
 
+##### Minified Size of Latest Update (0.1.0): 10,6kb
+
 ## Features
 
 - **Component-Based:** Supports modular and reusable components.
