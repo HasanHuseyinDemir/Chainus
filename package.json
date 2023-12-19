@@ -1,6 +1,6 @@
 {
   "name": "chainus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple yet powerful framework that is lightweight, reactive, fast and user-friendly.",
   "main": "./src/chainus.min.mjs",
   "scripts": {
