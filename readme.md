@@ -5,7 +5,7 @@
 <br>
 Chainus is an easy-to-use, vanilla JavaScript-friendly, reactive, lightweight, and functional SPA (Single Page Application) framework.
 
-##### Minified Size of Latest Update (0.1.0): 10,6kb
+##### Lightweight min-size (0.1.3): 11,5kb
 
 ## Features
 
@@ -22,18 +22,7 @@ You can include Chainus directly from the CDN:
 
 - Minified Module Version:
     ```js
-    import {
-      html,
-      Mount,
-      state,
-      setComponent,
-      createElement,
-      async,
-      createId,
-      createStore,
-      onConnect,
-      onRemove
-    } from "https://unpkg.com/chainus/src/chainus.min.mjs";
+    import {html,Mount,onConnect,onRemove,Components,setLazy,setComponent,createStore,createElement,async,createId,state,untrack,Effect,batch} from "https://unpkg.com/chainus/src/chainus.min.mjs";
     ```
 
 - Portable Version
@@ -53,10 +42,10 @@ Install Chainus using npm:
 - Import Chainus into your project:
 
 ```js
-import { html, Mount, state, setComponent, createElement, async, createId, createStore, onConnect, onRemove } from 'chainus';
+import {html,Mount,onConnect,onRemove,Components,setLazy,setComponent,createStore,createElement,async,createId,state,untrack,Effect,batch} from 'chainus';
 ```
 
-# Usage
+# Usage[NPM]
 
 To create a simple component using Chainus:
 
@@ -79,6 +68,8 @@ For more examples and usage details, check out the <a href="https://codepen.io/c
 
 In CodePen, there are template files available. You can create a new Chainus project by using the template files within the collection.
 
-Portable : <a href="https://codepen.io/pen?template=YzBREpp">Template</a>
+### CodePen-Templates
 
-NPM : <a href="https://codepen.io/pen?template=dyaQepJ">Template</a>
+Portable-Template : <a href="https://codepen.io/pen?template=YzBREpp">Template</a>
+
+Module-Template : <a href="https://codepen.io/pen?template=dyaQepJ">Template</a>

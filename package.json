@@ -1,7 +1,7 @@
 {
   "name": "chainus",
-  "version": "0.1.2",
-  "description": "A simple yet powerful framework that is lightweight, reactive, fast and user-friendly.",
+  "version": "0.1.3",
+  "description": "[beta] A simple yet powerful framework that is lightweight, reactive, fast and user-friendly.",
   "main": "./src/chainus.min.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,8 @@
     "data-management",
     "web-development",
     "vanilla-friendly",
-    "dom"
+    "dom",
+    "beta"
   ],
   "author": "Hasan Hüseyin Demir",
   "license": "MIT",
